@@ -1,0 +1,15 @@
+In deze oefening gaan we een enkele functie schrijven in drie stijlen.
+
+De functie die we gaan maken, doet het volgende.
+
+neem twee cijfers
+elk getal wordt gekwadrateerd (vermenigvuldigd met zichzelf)
+de gekwadrateerde getallen worden bij elkaar opgeteld
+deze som wordt weer gekwadrateerd
+de resulterende waarde wordt geretourneerd
+Schrijf deze functie in alle drie stijlen en geef de functies en hun argumenten een goede naam. Ze kunnen niet exact dezelfde naam hebben. Er zijn meerdere manieren om dit te doen.
+
+functie declaratie
+functie-uitdrukking
+pijl functie:
+Nadat u klaar bent, controleert u of alle drie de functies hetzelfde resultaat geven als u ze dezelfde argumenten geeft.
